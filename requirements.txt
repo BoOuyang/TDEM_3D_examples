@@ -1,5 +1,6 @@
 numpy
 scipy
+pandas
 matplotlib
 ipywidgets
 geoana==0.0.6
