@@ -15,4 +15,4 @@ dependencies:
     - geoana==0.0.6
     - pymatsolver==0.1.2
     - discretize==0.4.11
-    - SimPEG==0.13.1
+    - SimPEG==0.14.0
