@@ -1,7 +1,6 @@
 name: TDEM_3D_examples
 
 channels:
-  - conda-forge
   - defaults
 dependencies:
   - numpy
